@@ -12,7 +12,7 @@ A simple and efficient tool to organize your downloads folder by automatically s
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/hamzahharist/download-organizer/releases) page
+1. Download the latest release from the [Releases](https://github.com/hamzaharist/download-organizer/releases) page
 2. Run the `Download Organizer.exe` file
 3. No installation required - it's a portable application
 
